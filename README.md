@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Rudraksh Sachdeva</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=AI+Builder;Full+Stack+Developer;System+Thinker;Building+Real+World+Tech;Future+Startup+Founder" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=AI+Builder;Full+Stack+Developer;System+Thinker;Building+Real+World+Tech;Future+Startup[...]" />
 </p>
 
 <p align="center">
@@ -24,25 +24,17 @@
 ## 🧠 SYSTEM THINKER
 
 ```diff
-+ I don’t build projects. I build systems that solve real-world problems.
++ I don't build projects. I build systems that solve real-world problems.
 ```
 
-* 🎓 B.Tech CSE (2nd Year)
+* 🎓 B.Tech CSE (2nd Year) | IILM University, Gurugram
 * ⚙️ Focus: AI Systems • Backend Architecture • Scalable Platforms
 * 🚀 Building in AI, logistics, and automation
 * 🧩 Solving real problems in Tier 2/3 India
 
 ---
 
-## 🚀 PROJECTS
-
-### 🤝 Travel Professor
-> A structured full-stack platform for a travel agency.
-
-⚡ **Impact:** 500+ users reach  
-🧠 **Core:** Matching • Progress Tracking • Structured Growth
-
----
+## 🚀 MAIN PROJECTS
 
 ### 🏫 IILM Faculty Connect
 > A faculty-student connection platform for IILM, streamlining communication and interaction.
@@ -57,6 +49,14 @@
 
 ⚡ **Impact:** Improves assignment handling and progress monitoring  
 🧠 **Core:** Assignment Submission • Tracking • Notifications
+
+---
+
+### 🤝 Travel Professor
+> A structured full-stack platform for a travel agency.
+
+⚡ **Impact:** 500+ users reach  
+🧠 **Core:** Matching • Progress Tracking • Structured Growth
 
 ---
 
@@ -98,7 +98,7 @@
 
 > Build things that matter.  
 > Scale things that work.  
-> Eliminate what doesn’t.
+> Eliminate what doesn't.
 
 ---
 
